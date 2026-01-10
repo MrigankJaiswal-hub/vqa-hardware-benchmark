@@ -1,0 +1,54 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ===== Virtual Environments =====
+.env
+.venv
+venv/
+ENV/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===== Qiskit / Quantum =====
+*.qasm
+*.hdf5
+
+# ===== IDEs =====
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs & Data =====
+*.log
+results/
+outputs/
+figures/tmp/
+
+# ===== LaTeX =====
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+
+# ===== Credentials =====
+*.pem
+*.key
+credentials.json

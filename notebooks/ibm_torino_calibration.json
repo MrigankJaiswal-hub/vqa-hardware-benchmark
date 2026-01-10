@@ -1,0 +1,7 @@
+{
+  "backend": "ibm_torino",
+  "date": "2026-01-10T02:45:07.702852",
+  "properties": {
+    "backend_name": "ibm_torino",
+    "backend_version": "1.0.106",
+    "last_update_date": 

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "Hardware-Aware Benchmarking of Variational Quantum Algorithms on NISQ Devices"
+authors:
+  - family-names: Jaiswal
+    given-names: Mrigank
+version: 1.0.0
+date-released: 2026-01-10
+repository-code: "https://github.com/MrigankJaiswal-hub/vqa-hardware-benchmark"
+url: "https://github.com/MrigankJaiswal-hub/vqa-hardware-benchmark"
+license: MIT
+keywords:
+  - quantum computing
+  - NISQ
+  - VQA
+  - entanglement
+  - quantum noise
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Jaiswal
+      given-names: Mrigank
+  title: "Hardware-Aware Benchmarking of Variational Quantum Algorithms on NISQ Devices"
+  year: 2026
+  url: "https://github.com/MrigankJaiswal-hub/vqa-hardware-benchmark"
