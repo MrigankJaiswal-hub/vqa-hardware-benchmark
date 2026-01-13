@@ -79,10 +79,7 @@ All figures are generated programmatically and saved to the `figures/` directory
 | `depth_analysis.png` | Depth-normalized entanglement loss |
 | `zne_comparison.png` | Error-mitigated vs noisy results |
 
----
 
-
----
 
 ## ⚙️ Installation
 
@@ -98,13 +95,14 @@ cd vqa-hardware-benchmark
 
 
 
-**### 🚀 Future Work**
+### 🚀 Future Work
 
 Execution on real IBM Quantum and IonQ hardware
 Extension to QAOA and larger VQE benchmarks
 Advanced error mitigation (PEC, CDR)
 Pulse-level noise modeling
 ML-assisted hardware-aware ansatz optimization
+
 
 
 
