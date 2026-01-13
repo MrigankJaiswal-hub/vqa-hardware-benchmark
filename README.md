@@ -81,29 +81,6 @@ All figures are generated programmatically and saved to the `figures/` directory
 
 ---
 
-## 🗂️ Repository Structure
-vqa-hardware-benchmark/
-│
-├── notebooks/
-│ ├── 01_ideal_bell_state.ipynb
-│ ├── 02_noisy_bell_state.ipynb
-│ ├── 03_error_mitigation_zne.ipynb
-│ ├── 04_entanglement_metrics.ipynb
-│ ├── 05_hardware_comparison.ipynb
-│ └── 06_energy_vs_noise.ipynb
-│
-├── figures/
-│ ├── entanglement_decay.png
-│ ├── hardware_comparison.png
-│ ├── energy_vs_noise.png
-│ └── depth_analysis.png
-│
-├── README.md
-├── CITATION.cff
-├── LICENSE
-└── requirements.txt
-
-
 
 ---
 
@@ -128,5 +105,6 @@ Extension to QAOA and larger VQE benchmarks
 Advanced error mitigation (PEC, CDR)
 Pulse-level noise modeling
 ML-assisted hardware-aware ansatz optimization
+
 
 
