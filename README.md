@@ -95,13 +95,14 @@ cd vqa-hardware-benchmark
 
 
 
-### 🚀 Future Work
+ **🚀 Future Work**
 
 Execution on real IBM Quantum and IonQ hardware
 Extension to QAOA and larger VQE benchmarks
 Advanced error mitigation (PEC, CDR)
 Pulse-level noise modeling
 ML-assisted hardware-aware ansatz optimization
+
 
 
 
